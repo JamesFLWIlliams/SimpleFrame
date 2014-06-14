@@ -2,6 +2,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two);
 
 ::selection {
 	background: #333;
@@ -27,6 +28,7 @@ a {
 }
 
 header {
+	font-family: 'Shadows Into Light Two', cursive;
 	text-align: center;
 	font-weight: 300;
 	font-size: 700%;
